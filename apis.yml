@@ -28,6 +28,8 @@ apis:
     description: >-
       The Ionis Pharmaceuticals API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ionis-pharmaceuticals
   - type: Website
     url: https://www.ionispharma.com
 maintainers:
