@@ -2,7 +2,7 @@ aid: ionis-pharmaceuticals
 url: https://raw.githubusercontent.com/api-evangelist/ionis-pharmaceuticals/refs/heads/main/apis.yml
 name: Ionis Pharmaceuticals
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Pharmaceuticals
   - Biotech
@@ -19,7 +19,7 @@ apis:
       - Pharmaceuticals
       - Biotech
       - RNA
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.ionispharma.com
     humanURL: https://developer.ionispharma.com
     properties:
