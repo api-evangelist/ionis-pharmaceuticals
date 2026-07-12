@@ -1,0 +1,19 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.ionispharma.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Dec 20 01:21:05 2026 GMT
+  hsts: null
+- host: developer.ionispharma.com
+  https: false
+- host: api.ionispharma.com
+  https: false
+domains:
+- domain: ionispharma.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
