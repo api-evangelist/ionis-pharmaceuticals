@@ -60,6 +60,12 @@ apis:
     description: >-
       The Ionis Pharmaceuticals API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/ionis-pharmaceuticals-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ionis-pharmaceuticals-rate-limits.yml
+  - type: FinOps
+    url: finops/ionis-pharmaceuticals-finops.yml
   - type: DomainSecurity
     url: security/ionis-pharmaceuticals-domain-security.yml
   - url: https://ir.ionispharma.com/rss/news-releases.xml
